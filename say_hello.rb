@@ -1,4 +1,4 @@
-def say_hello(name, language = "Ruby programmer")
+def say_hello(name = "Ruby programmer")
   puts name
 end
 
